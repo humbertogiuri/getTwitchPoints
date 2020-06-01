@@ -4,9 +4,9 @@
     "version": "0.1",
     "content_scripts": [
         {
-            "matches": ["https://www.twitch.tv/"],
+            "matches": ["https://www.twitch.tv/cellinrj", "https://www.twitch.tv/lannik1"],
             "js": ["content.js"],
-            "css": []
+            "css": ["style.css"]
         }
     ]
 }
