@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "getCellinPoints",
+    "name": "Get Twitch points",
     "version": "0.1",
     "content_scripts": [
         {
-            "matches": ["https://www.twitch.tv/cellinrj", "https://www.twitch.tv/lannik1"],
+            "matches": ["https://www.twitch.tv/*"],
             "js": ["content.js"],
             "css": ["style.css"]
         }
