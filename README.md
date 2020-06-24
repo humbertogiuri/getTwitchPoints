@@ -7,5 +7,3 @@ Configurando para uso:
   Passo 4: Habilite o modo densenvolvedor no canto superior direito.
   Passo 5: Arraste a pasta do projeto para o google.
   Passo 6: De f5 na página da stream.
-  
-A princípio o projeto está configurado apenas para as lives do cellinrj e lannik. Para adicionar novas lives no funcionamento, basta ir no arquivo manifest.json e adicionar o url da live no "matches".
